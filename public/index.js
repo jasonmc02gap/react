@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from './Home';
+// import Home from './Home';
+import Posts from './Posts';
 
-ReactDOM.render(<Home />, document.getElementById('root'));
+ReactDOM.render(<Posts />, document.getElementById('root'));
